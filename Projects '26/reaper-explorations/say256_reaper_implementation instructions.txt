@@ -1,0 +1,8 @@
+
+256 channel player using reaper
+Goal: play 256 channels through 256 speakers, where each channel corresponds to a specific speaker (ex. channel 1 goes to speaker 1). 
+Implementation:
+Split a 256 channel wav file into 256 separate wav files and store them in a directory using ffmpeg
+load each wav file into reaper on 256 separate tracks
+create a hardware send for each track in reaper, where track 1 is sent to speaker 1, track 2 is sent to speaker 2, etc. 
+done!

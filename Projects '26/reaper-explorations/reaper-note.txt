@@ -1,0 +1,19 @@
+I lost all my reaper files :(
+However, you can use 
+https://www.reaper.fm/sdk/reascript/reascripthelp.html
+to get all the API calls to make reaper work 
+without using a mouse. 
+I used reaper with python, but reaper works natively with Lua,
+so that's the best bet
+
+Reaper is best used for playing individual sounds through speakers
+You can find a folder with audio files & a reaper document to test
+playing individual sounds through individual speakers
+
+Additionally, reaper can also be used with spat revolution
+This is pretty irrelevant now, but I'd spent some time 
+during the summer figuring out a script to connect reaper and 
+spat revolution together. I didn't figure out a good way to do 
+it without a mouse entirely, but they're simply connected with
+something called a VST plugin, which can be added to different 
+tracks in reaper

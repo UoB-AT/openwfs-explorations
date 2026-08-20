@@ -1,0 +1,9 @@
+Using python-osc to send OSC commands to max/MSP (or other devices)
+
+Python-osc allows you to send OSC commands, which are simply lightweight string messages sent over WiFi or ethernet cables, to different applications on different machines. 
+
+To send an OSC message, you need two pieces of information: the IP address of the device you're sending the message to, and the "port" that you're sending the information to.
+
+If you're sending an OSC message from one application or script to another application or script on the same device, use your local IP address (127.0.0.1). If you're sending it to a different device, use the IP address of the receiving device. 
+
+The port number that you send the OSC message to depends on the application that you want to send messages to. In Max, you are allowed to send messages to thousands of different ports. You can find the default local UDP port in Max Preferences. Specifically, you can send OSC messages to specific Max ports, which are connected to different objects in max that perform different functions. 

@@ -1,0 +1,3 @@
+0, /Users/abenakt/Desktop/MIT/Kyle/localization/soundfiles/harmonium.wav, 0
+1, /Users/abenakt/Desktop/MIT/Kyle/localization/soundfiles/note.wav, 2
+0, /Users/abenakt/Desktop/MIT/Kyle/localization/soundfiles/note.wav, 5

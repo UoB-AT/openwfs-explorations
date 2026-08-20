@@ -1,0 +1,3 @@
+1, "Projects '26/max-explorations/max-spatial/sounds_and_example_filepaths_for_maxpatch/867001__cat-fox_alex__failed_granular-ambience-1.wav"
+2, "Projects '26/max-explorations/max-spatial/sounds_and_example_filepaths_for_maxpatch/866967__sadiquecat__ir-shower-balloon-pop-binaural-okm1.wav"
+3, "Projects '26/max-explorations/max-spatial/sounds_and_example_filepaths_for_maxpatch/866827__gis_sweden__thinking-of-wind-chimes-chuck.wav"

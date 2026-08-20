@@ -1,0 +1,38 @@
+{
+  "audiofile": "/path/to/file",
+  "audioSampleRate": 48000,
+  "trajectories": [
+    {
+      "timeStamp": 1,
+      "coordinates": [
+        {   
+          "soundObject": 1,
+          "coord": [0, 0, 0]
+        },
+        {   
+          "soundObject": 2,
+          "coord": [1, 1, 1]
+        }
+      ]
+    },
+    {
+      "timeStamp": 7.5,
+      "coordinates": [
+        {   
+          "soundObject": 1,
+          "coord": [1, 1, 1]
+        },
+        {   
+          "soundObject": 2,
+          "coord": [-1, -1, -1]
+        }
+      ]
+    }
+  ],
+  "amplitudes": [
+    {
+      "timeStamp": 1,
+      "value": 1
+    }
+  ]
+}

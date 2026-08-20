@@ -1,0 +1,43 @@
+Sample Speaker Coordinates
+
+Two modules stacked: 64 speakers settings
+
+leftmost_speaker = [0.0381, 0.0381]
+spaces_between = [0.0381, 0.0381]
+height_module = 0.15
+num_modules = 2
+module_angle = [0, 0]
+module_distance = [0.3, 0.3]
+module_spread = [0, 0]
+num_rows_per_module = 2
+num_speakers_per_row = 16
+num_speakers_in_stack = 2
+speaker_head_position = 1
+
+Eight modules, no stacks, octahedron: 256 speakers settings
+
+leftmost_speaker = [0.0381, 0.0381]
+spaces_between = [0.0381, 0.0381]
+height_module = 0.15
+num_modules = 8
+module_angle = [315, 90, 45, 0, -45, 90, -315, 0]
+module_distance = [-0.6, -0.1, 0.5375, 0.8375, 0.5375, -0.1, -0.6, -0.8375]
+module_spread = [-0.559, -0.8375, -0.559, 0, 0.559, 0.8375, 0.559, 0]
+num_rows_per_module = 2
+num_speakers_per_row = 16
+num_speakers_in_stack = 1
+speaker_head_position = 0
+
+Four modules, no stacks, U-shape: 128 speaker settings
+
+leftmost_speaker = [0.0381, 0.0381]
+spaces_between = [0.0381, 0.0381]
+height_module = 0.15
+num_modules = 4
+module_angle = [90, 0, 0, 90]
+module_distance = [0, 0.5325, 0.5325, 0]
+module_spread = [-1, -0.45, 0.45, 1]
+num_rows_per_module = 2
+num_speakers_per_row = 16
+num_speakers_in_stack = 1
+speaker_head_position = -1
